@@ -5,7 +5,7 @@ public class SumOfNoInString {
 	public static void main(String...arg){
 		String str[]={"ab12","1abc15","2sd1ff49"};
 		/**
-		 * generated int array should be =[12,16,52]
+		 * generated int array should be =[12,16,52]... Supposed to gen array
 		 * */
 		int len = str.length;
 		
